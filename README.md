@@ -27,4 +27,4 @@ Para aprovechar al máximo este curso, se recomienda cumplir con los siguientes 
 
 1. **Equipo informático:** Disponer de un ordenador portátil o de sobremesa con conexión a internet.
 ---
-> **NOTA:** No es necesario tener experiencia en programación, aunque se valorará positivamente tener nociones básicas de estadística descriptiva.
+**NOTA:** No es necesario tener experiencia en programación, aunque se valorará positivamente tener nociones básicas de estadística descriptiva.

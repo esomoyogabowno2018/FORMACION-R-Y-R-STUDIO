@@ -23,5 +23,10 @@ A lo largo de la  formación los participantes aprenderán a:
 
 ---
 ## <h2 style="color: #2E8B57;">📚 REQUISITOS PARA PARTICIPAR EN LA FORMACIÓN</h2>
+   
+---
+Para aprovechar al máximo este curso, se recomienda cumplir con los siguientes requisitos:
 
+1. **Conocimientos previos:** No es necesario tener experiencia en programación, aunque se valorará positivamente tener nociones básicas de estadística descriptiva.
 
+2. **Equipo informático:** Disponer de un ordenador portátil o de sobremesa con conexión a internet.

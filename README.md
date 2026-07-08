@@ -22,5 +22,6 @@ A lo largo de la  formación los participantes aprenderán a:
 11. Realizar informes profesionales mediante `RMardown`
 
 ---
+## <h2 style="color: #2E8B57;">📚 REQUISITOS PARA PARTICIPAR EN LA FORMACIÓN</h2>
 
 
